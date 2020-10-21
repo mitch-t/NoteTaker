@@ -7,6 +7,7 @@
 ## Table of Contents
 
 * [About](#about)
+* [Screenshot](#Screenshot)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Tests](#tests)
@@ -16,6 +17,10 @@
 
 ## About 
 NoteTaker - This is a CLI app deployed via heroku. This app allows the user to write, save, and delete important notes.
+
+## Screenshot
+![Screenshot (85)](https://user-images.githubusercontent.com/66184450/96776563-0a176d00-139e-11eb-8e24-54d2cf59d549.png)
+
 
 ## Installing 
 To install NoteTaker, follow these steps: Must have the latest version of nodejs installed. As a developer you must also install npm express. The app can be ran on localhost:3000 or via heroku.
