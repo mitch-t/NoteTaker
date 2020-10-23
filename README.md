@@ -17,6 +17,7 @@
 
 ## About 
 NoteTaker - This is a CLI app deployed via heroku. This app allows the user to write, save, and delete important notes.
+https://aqueous-castle-72932.herokuapp.com/
 
 ## Screenshot
 ![Screenshot (85)](https://user-images.githubusercontent.com/66184450/96776563-0a176d00-139e-11eb-8e24-54d2cf59d549.png)
